@@ -58,7 +58,7 @@ I'm a B.Tech student at **IIIT Bhagalpur**, passionate about building scalable w
 
 - **GitHub:** [AdityaNavendu](https://github.com/AdityaNavendu)
 - **LinkedIn:** Add your LinkedIn profile URL here
-- **LeetCode:** [ADITYA_28755](https://leetcode.com/u/ADITYA_28755/)
+- **LeetCode:** [ADITYA_28755](https://leetcode.com/u/aditya287bh/)
 
 ---
 
